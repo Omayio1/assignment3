@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>National Parks and Attractions</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" />
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>National Parks and Attractions</h1>
+        </header>
+        <main>
+            <div class="search-container">
+                <input type="text" id="search" placeholder="Search for a park...">
+                <ul id="suggestions"></ul>
+            </div>
+            <div id="map"></div>
+            <div id="park-details" class="details"></div>
+        </main>
+        <footer>
+            <p>&copy; 2024 National Parks App</p>
+        </footer>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.1/fuse.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

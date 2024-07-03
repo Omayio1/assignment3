@@ -1,0 +1,444 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8219,
+                    -1.2921
+                ]
+            },
+            "properties": {
+                "name": "Nairobi National Park",
+                "description": "A unique wildlife park located just outside Nairobi city center.",
+                "attractions": [
+                    "Lions",
+                    "Giraffes",
+                    "Rhinos",
+                    "Bird Watching"
+                ],
+                "hours": "8:00 AM - 5:00 PM",
+                "entryFee": "Ksh 430 for residents, Ksh 4300 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.8705,
+                    -2.9926
+                ]
+            },
+            "properties": {
+                "name": "Amboseli National Park",
+                "description": "Famous for its large elephant herds and views of Mount Kilimanjaro.",
+                "attractions": [
+                    "Elephants",
+                    "Mount Kilimanjaro",
+                    "Bird Watching",
+                    "Masai Culture"
+                ],
+                "hours": "6:00 AM - 6:00 PM",
+                "entryFee": "Ksh 800 for residents, Ksh 4000 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.0717,
+                    -2.1554
+                ]
+            },
+            "properties": {
+                "name": "Tsavo National Park",
+                "description": "One of the largest national parks in the world, known for its vast landscapes.",
+                "attractions": [
+                    "Elephants",
+                    "Lions",
+                    "Bird Watching",
+                    "Yatta Plateau"
+                ],
+                "hours": "6:00 AM - 6:00 PM",
+                "entryFee": "Ksh 500 for residents, Ksh 3000 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.6700,
+                    -4.0435
+                ]
+            },
+            "properties": {
+                "name": "Mombasa",
+                "description": "A historic coastal city with beautiful beaches and rich Swahili culture.",
+                "attractions": [
+                    "Fort Jesus",
+                    "Nyali Beach",
+                    "Haller Park",
+                    "Old Town"
+                ],
+                "hours": "Varies by location",
+                "entryFee": "Varies by location"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.2653,
+                    -0.4401
+                ]
+            },
+            "properties": {
+                "name": "Mount Kenya",
+                "description": "The second highest mountain in Africa, offering scenic hiking routes.",
+                "attractions": [
+                    "Hiking",
+                    "Wildlife",
+                    "Glaciers",
+                    "Naro Moru Route"
+                ],
+                "hours": "24/7",
+                "entryFee": "Ksh 1000 for residents, Ksh 6000 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7500,
+                    0.4500
+                ]
+            },
+            "properties": {
+                "name": "Lake Victoria",
+                "description": "The largest lake in Africa, shared by Kenya, Uganda, and Tanzania.",
+                "attractions": [
+                    "Fishing",
+                    "Bird Watching",
+                    "Boat Rides",
+                    "Islands"
+                ],
+                "hours": "Varies by location",
+                "entryFee": "Varies by location"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.3853,
+                    -0.4861
+                ]
+            },
+            "properties": {
+                "name": "Kakamega Forest",
+                "description": "The only tropical rainforest in Kenya, rich in biodiversity.",
+                "attractions": [
+                    "Bird Watching",
+                    "Butterflies",
+                    "Primate Watching",
+                    "Nature Trails"
+                ],
+                "hours": "8:00 AM - 5:00 PM",
+                "entryFee": "Ksh 400 for residents, Ksh 2000 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.7383,
+                    -0.1322
+                ]
+            },
+            "properties": {
+                "name": "Lake Nakuru National Park",
+                "description": "Known for its flocks of flamingos and other bird species.",
+                "attractions": [
+                    "Flamingos",
+                    "Rhinos",
+                    "Bird Watching",
+                    "Waterfalls"
+                ],
+                "hours": "6:00 AM - 6:00 PM",
+                "entryFee": "Ksh 500 for residents, Ksh 2500 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.4917,
+                    -1.3771
+                ]
+            },
+            "properties": {
+                "name": "Ol Pejeta Conservancy",
+                "description": "A leading wildlife conservancy, home to the Big Five and rhino sanctuary.",
+                "attractions": [
+                    "Big Five",
+                    "Rhino Sanctuary",
+                    "Chimpanzee Sanctuary",
+                    "Wildlife Conservation"
+                ],
+                "hours": "6:00 AM - 6:00 PM",
+                "entryFee": "Ksh 2000 for residents, Ksh 10000 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.1703,
+                    -2.2327
+                ]
+            },
+            "properties": {
+                "name": "Lamu Island",
+                "description": "A UNESCO World Heritage Site with a rich history and Swahili architecture.",
+                "attractions": [
+                    "Lamu Old Town",
+                    "Shela Beach",
+                    "Dhow Rides",
+                    "Swahili Culture"
+                ],
+                "hours": "Varies by location",
+                "entryFee": "Varies by location"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4165,
+                    -1.3720
+                ]
+            },
+            "properties": {
+                "name": "Hell's Gate National Park",
+                "description": "Known for its scenery and wildlife, including the inspiration for Pride Rock in The Lion King.",
+                "attractions": [
+                    "Hiking",
+                    "Cycling",
+                    "Rock Climbing",
+                    "Wildlife"
+                ],
+                "hours": "6:00 AM - 6:00 PM",
+                "entryFee": "Ksh 400 for residents, Ksh 2000 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.1608,
+                    -0.5967
+                ]
+            },
+            "properties": {
+                "name": "Meru National Park",
+                "description": "Famous for its diverse wildlife and lush landscapes.",
+                "attractions": [
+                    "Elephants",
+                    "Rhinos",
+                    "Bird Watching",
+                    "Rivers"
+                ],
+                "hours": "6:00 AM - 6:00 PM",
+                "entryFee": "Ksh 500 for residents, Ksh 2500 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.2821,
+                    -4.1656
+                ]
+            },
+            "properties": {
+                "name": "Diani Beach",
+                "description": "A stunning beach destination with white sands and clear blue waters.",
+                "attractions": [
+                    "Beaches",
+                    "Water Sports",
+                    "Marine Life",
+                    "Nightlife"
+                ],
+                "hours": "24/7",
+                "entryFee": "Free"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.2750,
+                    -0.5130
+                ]
+            },
+            "properties": {
+                "name": "Aberdare National Park",
+                "description": "Known for its highland ecosystems and wildlife.",
+                "attractions": [
+                    "Waterfalls",
+                    "Wildlife",
+                    "Scenic Views",
+                    "Hiking"
+                ],
+                "hours": "6:00 AM - 6:00 PM",
+                "entryFee": "Ksh 300 for residents, Ksh 1500 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.1156,
+                    -1.1732
+                ]
+            },
+            "properties": {
+                "name": "Samburu National Reserve",
+                "description": "A lesser-known park with unique wildlife and scenic landscapes.",
+                "attractions": [
+                    "Grevy's Zebra",
+                    "Reticulated Giraffe",
+                    "Bird Watching",
+                    "Samburu Culture"
+                ],
+                "hours": "6:00 AM - 6:00 PM",
+                "entryFee": "Ksh 500 for residents, Ksh 2500 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.5908,
+                    0.1624
+                ]
+            },
+            "properties": {
+                "name": "Marsabit National Park",
+                "description": "Known for its lush forests, crater lakes, and diverse wildlife.",
+                "attractions": [
+                    "Elephants",
+                    "Bird Watching",
+                    "Scenic Crater Lakes",
+                    "Marsabit Mountain"
+                ],
+                "hours": "8:00 AM - 5:00 PM",
+                "entryFee": "Ksh 400 for residents, Ksh 2000 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.4475,
+                    -1.6193
+                ]
+            },
+            "properties": {
+                "name": "Lake Naivasha",
+                "description": "A freshwater lake with abundant wildlife and scenic views.",
+                "attractions": [
+                    "Hippos",
+                    "Bird Watching",
+                    "Boat Rides",
+                    "Hiking"
+                ],
+                "hours": "24/7",
+                "entryFee": "Free"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.6601,
+                    -4.1323
+                ]
+            },
+            "properties": {
+                "name": "Watamu",
+                "description": "A small coastal town known for its beautiful beaches and marine park.",
+                "attractions": [
+                    "Beaches",
+                    "Marine Park",
+                    "Snorkeling",
+                    "Gede Ruins"
+                ],
+                "hours": "24/7",
+                "entryFee": "Free"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.8833,
+                    -0.4167
+                ]
+            },
+            "properties": {
+                "name": "Chyulu Hills National Park",
+                "description": "Known for its rolling hills and unique volcanic landscapes.",
+                "attractions": [
+                    "Hiking",
+                    "Scenic Views",
+                    "Wildlife",
+                    "Caves"
+                ],
+                "hours": "6:00 AM - 6:00 PM",
+                "entryFee": "Ksh 500 for residents, Ksh 2500 for non-residents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.0787,
+                    -1.3515
+                ]
+            },
+            "properties": {
+                "name": "Saiwa Swamp National Park",
+                "description": "Kenya's smallest national park, known for its rich birdlife and rare sitatunga antelopes.",
+                "attractions": [
+                    "Bird Watching",
+                    "Sitatunga Antelopes",
+                    "Nature Walks"
+                ],
+                "hours": "8:00 AM - 5:00 PM",
+                "entryFee": "Ksh 300 for residents, Ksh 1500 for non-residents"
+            }
+        }
+    ]
+}
